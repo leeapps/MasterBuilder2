@@ -12,5 +12,5 @@ Usage
 2. Open the power BI report and refresh the data
 
 Notes:
-You don't need to run the script if you don't want to, just create a Object Protection Summary report with all items in the table selected and save the file to your "c:\temp" named x So that PowerBI can read the Data.
+You don't need to run the script if you don't want to, just create an Object Protection Summary report with all items in the table selected and save the file to your "C:\Temp\ProtectionReporting.csv" so that PowerBI can read the data.
 
